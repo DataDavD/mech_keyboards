@@ -8,9 +8,11 @@ I believe will be my daily driver because it sits naturally lower than the Iris 
  allowing me to use MX style switches and keycaps which I have grown to love coming from the
   Logitech K811 (which is actually a great bluetooth keyboard IMHO).
 
-[QMK Info] (https://docs.qmk.fm)
-[Iris rev4 info] (https://keeb.io/collections/iris-split-ergonomic-keyboard)
-[Lily58 pro info] (https://boardsource.xyz/store/5ec9df84c6b834480de6c3d0)
+[QMK Info](https://docs.qmk.fm)
+
+[Iris rev4 Info](https://keeb.io/collections/iris-split-ergonomic-keyboard)
+
+[Lily58 pro Info](https://boardsource.xyz/store/5ec9df84c6b834480de6c3d0)
 
 Current Layout:
 ![Default Layer](https://github.com/DataDavD/mech_keyboards/blob/master/Iris_rev4/layout_rev10/layer_default.png)
