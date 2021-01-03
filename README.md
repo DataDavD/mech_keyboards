@@ -1,12 +1,13 @@
 #### Basic Repo storing all my revisions (json and hex formats) for QMK toolbox.  
 
-Currenly, using the Iris rev4 as my daily driver, but intend to build a low profile Iris rev4 with
-Kaihl Choc Brown switches and MBK Choc keycaps. 
+Currently, I am using the Lily58 pro with Zealios V2 lubed with Krytox 205g0 as my daily driver. I 
+just switched from my first mechanical keeb, the Iris rev4, with unlubed Cherry MX Brown 
+switches, so the new Lily58 with the lubed Zealios is miles away better. I intend to build 5 
+Alice style keebs in 2021, so follow this repo for more keeb and layout updates.
 
-I also have Lily58 pro in the works with hot swap sockets for both MX and Choc style switches which
-I believe will be my daily driver because it sits naturally lower than the Iris while still
- allowing me to use MX style switches and keycaps which I have grown to love coming from the
-  Logitech K811 (which is actually a great bluetooth keyboard IMHO).
+Many thanks to the mechanical keyboard community on Reddit and Discord. Everyone has been very kind
+in answering all my newb questions as I feel every so deep into the rabbit hole (and continue to 
+do so).
 
 [QMK Info](https://docs.qmk.fm)
 
@@ -15,6 +16,6 @@ I believe will be my daily driver because it sits naturally lower than the Iris 
 [Lily58 pro Info](https://boardsource.xyz/store/5ec9df84c6b834480de6c3d0)
 
 Current Layout:
-![Default Layer](https://github.com/DataDavD/mech_keyboards/blob/master/Iris_rev4/layout_rev13/layer_default.png)
-![Layer 1](https://github.com/DataDavD/mech_keyboards/blob/master/Iris_rev4/layout_rev13/layer_1.png)
-![Layer 2](https://github.com/DataDavD/mech_keyboards/blob/master/Iris_rev4/layout_rev13/layer_2.png)
+![Default Layer](https://github.com/DataDavD/mech_keyboards/blob/master/Lily58pro/layout_rev1/layer_default.png)
+![Layer 1](https://github.com/DataDavD/mech_keyboards/blob/master/Lily58pro/layout_rev1/layer_1.png)
+![Layer 2](https://github.com/DataDavD/mech_keyboards/blob/master/Lily58pro/layout_rev1/layer_2.png)
