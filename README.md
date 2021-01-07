@@ -1,5 +1,12 @@
 #### Basic Repo storing all my revisions (json and hex formats) for QMK toolbox.  
 
+I am no longer going to use this repo to update my layouts. Before, I was using QMK online 
+configurator that was limited but let me easily change my layout. Now that I am doing more 
+custom stuff (and I finally debugged why it wouldn't work on my local machine) I am using the 
+"normal" version of QMK. I have already created a custom OLED image to be used on my Lily58 pro. 
+You can find my keymap and other features here https://github.com/DataDavD/qmk_firmware under 
+keyboards/Lily58/keymaps/datadavd_lily58pro.
+
 Currently, I am using the Lily58 pro with Zealios V2 lubed with Krytox 205g0 as my daily driver. I 
 just switched from my first mechanical keeb, the Iris rev4, with unlubed Cherry MX Brown 
 switches, so the new Lily58 with the lubed Zealios is miles away better. I intend to build 5 
